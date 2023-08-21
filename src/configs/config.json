@@ -1,0 +1,39 @@
+{ 
+    "GuildID":"1012134074661474334",
+    "owners": ["628978900604682243",""],
+    "BotDurum": ["Norths ✧ Created by Pashq","Norths ❤️ Pashq"],
+    "BotSesKanal": "1062845314458992733",
+    "AltBaşlık": "Norths ✧",
+    "guildID": "1012134074661474334",
+    "BotClientID": "956633109284126721",
+    "owners": ["628978900604682243","909769070239436841","882559591550971944"],
+
+"Main": {
+    "prefix": [".","!","r!"],
+    "BotClientID": "956633109284126721",
+    "mongoUrl": "mongodb+srv://canzade1221:canzade1221@cluster0.erqvc.mongodb.net/canzade1221?retryWrites=true&w=majority",
+
+    "dmMessages": true,
+    "LevelSystem": true,
+  
+    "messageDolar": 1,
+    "voiceDolar": 1,
+  
+    "messageCount": 1,
+    "messageCoin": 2,
+    "voiceCount": 1,
+    "voiceCoin": 4,
+    "publicCoin": 4,
+    "inviteCount": 1,
+    "inviteCoin": 15,
+    "taggedCoin": 25,
+    "toplamsCoin": 5.5,
+    "yetkiCoin": 30,
+  
+    "banlimit": 3,
+    "jaillimit": 3,
+    "warnlimit": 3,
+    "chatmutelimit": 3,
+    "voicemutelimit": 3
+}
+}
